@@ -12,3 +12,9 @@ My skills with working with the Numpy library
 ## Data_analysis
 - Working with a single data-frame on the example of biomedical data
 - Working with multiple dataframes using bioinformatic data as an example
+## OOP_part_1
+- Equipment reservation system
+- Genetic code interpreter
+- Meet the dunders
+- Biological sequences world
+- ## OOP_part_2
