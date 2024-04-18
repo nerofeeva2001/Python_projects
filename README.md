@@ -17,4 +17,8 @@ My skills with working with the Numpy library
 - Genetic code interpreter
 - Meet the dunders
 - Biological sequences world
-- ## OOP_part_2
+## OOP_part_2
+- Time measurement
+- Time directory
+- Dictionary with normal iteration
+- OpenFasta - OpenFasta context manager which works similarly to the normal open manager, but works specifically with fasta files
