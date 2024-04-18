@@ -29,3 +29,6 @@ Skills in working with generators and decoders
 - Deprecation
 - Single deprecation
 - Caching
+## Internet
+- Parsing sites and working with data
+- Telegram blogger
