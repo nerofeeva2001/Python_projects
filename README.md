@@ -22,3 +22,10 @@ My skills with working with the Numpy library
 - Time directory
 - Dictionary with normal iteration
 - OpenFasta - OpenFasta context manager which works similarly to the normal open manager, but works specifically with fasta files
+## GenDec
+Skills in working with generators and decoders
+- Sliding window
+- Fibbonacization
+- Deprecation
+- Single deprecation
+- Caching
