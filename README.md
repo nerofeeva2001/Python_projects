@@ -32,3 +32,5 @@ Skills in working with generators and decoders
 ## Internet
 - Parsing sites and working with data
 - Telegram blogger
+## Dota
+- Predicting game results
